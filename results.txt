@@ -1,0 +1,12 @@
+Assignment 5 - Point Cloud Data Processing Results
+======================================================================
+
+Dataset 1:
+  Ground level = 61.10 m
+  Optimal epsilon = 0.72
+  Area of the catenary cluster = 3278.55 m²
+
+Dataset 2:
+  Ground level = 61.13 m
+  Optimal epsilon = 0.63
+  Area of the catenary cluster = 2692.76 m²
